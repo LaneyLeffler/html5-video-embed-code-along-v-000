@@ -1,5 +1,5 @@
 languages:
-  - html
+* - html
 tags:
   - html5
   - semantic elements
@@ -10,4 +10,4 @@ tags:
   - media
 type:
   - code along
-resources: 2
+resources: 2 
